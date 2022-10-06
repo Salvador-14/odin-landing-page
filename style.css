@@ -1,0 +1,59 @@
+body {
+
+}
+
+#odin {
+  
+}
+
+#partOne {
+    background-color: #1f2937;
+    color: white;
+    padding-bottom: 100px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 17px;
+    list-style-type: none;
+}
+
+#odinImage {
+    height: 240px;
+}
+
+.intro {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.info1 {
+    width: 400px;
+}
+
+.tituloIntro {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.text1 {
+    margin-top: -40px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.btn1 {
+    background-color: royalblue;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 5px 25px;
+    border: none;
+}
