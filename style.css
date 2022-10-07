@@ -1,5 +1,7 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,100;1,300&display=swap');
 
+body {
+    font-family: 'Roboto', sans-serif;
 }
 
 #odin {
@@ -81,4 +83,27 @@ ul {
 .charts div {
     width: 240px;
     text-align: center;
+}
+
+#partThree {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 90px;
+}
+
+#partThree p {
+    max-width: 800px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+label {
+    text-align: center;
+    margin: -20px 0 0 250px;
+    font-weight: bold;
+    font-size: 20px;
 }
