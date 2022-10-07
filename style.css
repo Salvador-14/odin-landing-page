@@ -101,9 +101,53 @@ ul {
     font-weight: 300;
 }
 
-label {
+#partThree label {
     text-align: center;
     margin: -20px 0 0 250px;
     font-weight: bold;
     font-size: 20px;
 }
+
+#partFour {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 90px;
+}
+
+.partFourContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    width: 900px;
+    gap: 180px;
+
+    border-radius: 8px;
+    padding: 45px 45px;
+    border: none;
+}
+
+
+.textContainer {
+    color: white;
+}
+
+
+.text1 {
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: -0px;
+}
+
+.btn2 {
+    background-color: transparent;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 5px 25px;
+    border: 2px solid white;
+    margin-top: 15px;
+}
+
