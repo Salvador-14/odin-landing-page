@@ -28,24 +28,25 @@ ul {
 
 #odinImage {
     height: 240px;
+    margin-top: 45px;
 }
 
 .intro {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-evenly;   
 }
 
 .info1 {
-    width: 400px;
+    width: 450px;
 }
 
-.tituloIntro {
+.titleIntro {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
 }
 
-.text1 {
+.textIntro {
     margin-top: -40px;
     font-size: 18px;
     color: #E5E7EB;
@@ -54,10 +55,11 @@ ul {
 .btn1 {
     background-color: royalblue;
     color: white;
-    font-size: 20px;
+    font-size: 16px;
     border-radius: 8px;
-    padding: 5px 25px;
+    padding: 9px 28px;
     border: none;
+    font-weight: bold;
 }
 
 #partTwo {
@@ -95,7 +97,7 @@ ul {
 
 #partThree p {
     max-width: 800px;
-    font-size: 36px;
+    font-size: 34px;
     font-style: italic;
     color: #1F2937;
     font-weight: 300;
@@ -103,7 +105,7 @@ ul {
 
 #partThree label {
     text-align: center;
-    margin: -20px 0 0 250px;
+    margin: -20px 0 0 450px;
     font-weight: bold;
     font-size: 20px;
 }
