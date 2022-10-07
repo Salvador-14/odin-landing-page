@@ -57,3 +57,28 @@ ul {
     padding: 5px 25px;
     border: none;
 }
+
+#partTwo {
+    padding-bottom: 100px;
+}
+
+.title2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.charts {
+    display: flex;
+    justify-content: center;
+}
+
+.charts img {
+    height: 100px;
+}
+
+.charts div {
+    width: 240px;
+    text-align: center;
+}
