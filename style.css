@@ -128,11 +128,9 @@ ul {
     border: none;
 }
 
-
 .textContainer {
     color: white;
 }
-
 
 .text1 {
     font-size: 23px;
@@ -151,3 +149,13 @@ ul {
     margin-top: 15px;
 }
 
+
+
+#footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 30px 30px;
+}
